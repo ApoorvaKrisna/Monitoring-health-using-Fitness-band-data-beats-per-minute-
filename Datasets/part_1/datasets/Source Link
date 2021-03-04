@@ -1,0 +1,13 @@
+https://sites.google.com/site/researchbyzhang/ieeespcup2015
+
+IEEE Signal Processing Cup 2015: Heart Rate Monitoring During Physical Exercise Using Wrist-Type Photoplethysmographic (PPG) Signals
+All datasets are now available for download.
+
+Training Sets (12 Sets):	Download (https://sites.google.com/site/researchbyzhang/ieeespcup2015/competition_data.zip?attredirects=0&d=1)	(available on August 12, 2014)
+Extra Training Set:	Download (https://sites.google.com/site/researchbyzhang/ieeespcup2015/Extra_TrainingData.zip?attredirects=0&d=1)	(available on January 5, 2015)
+Test Sets:	Download (https://sites.google.com/site/researchbyzhang/ieeespcup2015/TestData.zip?attredirects=0&d=1)	(available on January 5, 2015)
+Ground-Truth of Heart Rate for Test Sets:	Download (https://sites.google.com/site/researchbyzhang/ieeespcup2015/TrueBPM.zip?attredirects=0&d=1)	(available on March 24, 2015)
+
+Please read the readme file in each downloaded package for experiment descriptions and data formats.
+
+Note:  All datasets have copyrights. But you can freely use them for the 2015 IEEE Signal Processing Cup or academic research. The 12 training sets were original used in the following literature. You may want to treat the estimation performance reported in this literature as a benchmark for comparison with your algorithm. When you use the training sets in your research work, please cite this following literature as the data source.
